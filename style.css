@@ -40,7 +40,7 @@ nav li:hover{
     display: inline;
 }
 .front{
-    background-image: url('Front.webp');
+    background-image: url('front.webp');
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
